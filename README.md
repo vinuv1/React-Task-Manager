@@ -1,52 +1,46 @@
-#React Task Manager
+<h1 align="center">📌 React Task Manager</h1> <h2>🔗 Live Demo</h2>
 
-Live Demo: https://vinuv1.github.io/React-Task-Manager/
+https://vinuv1.github.io/React-Task-Manager/
 
-A simple and lightweight Task Manager built using React + Vite. You can add, edit, and delete tasks with a clean and responsive UI.
+A simple and lightweight Task Manager built with React + Vite.
 
-🚀 Features
+<h2>🚀 Features</h2>
 
-Add new tasks
+Add tasks
 
-Edit existing tasks
+Edit tasks
 
 Delete tasks
 
-Simple and clean interface
+Clean and simple UI
 
-📦 How to Run the Project
-# Clone this repository
+<h2>📦 How to Run</h2>
 git clone https://github.com/vinuv1/React-Task-Manager.git
-
-# Go into project folder
 cd React-Task-Manager
-
-# Install dependencies
 npm install
-
-# Start development server
 npm run dev
 
 
 Open http://localhost:5173
  in your browser.
 
-🛠️ Create Your Own Vite + React App
+<h2>🛠️ Create a New React + Vite App</h2>
 npm create vite@latest my-app -- --template react
 cd my-app
 npm install
 npm run dev
 
-📤 Deploy to GitHub Pages
+<h2>📤 Deploy to GitHub Pages</h2>
 npm run build
 npm run deploy
 
-
-Your app will be available at your GitHub Pages link.
-
-📁 Folder Structure
+<h2>📁 Folder Structure</h2>
 src/
 ├─ components/
 ├─ App.jsx
 ├─ main.jsx
 public/
+
+<h2>📄 License</h2>
+
+This project is open-source and free to use.
