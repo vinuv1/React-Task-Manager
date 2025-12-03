@@ -1,0 +1,21 @@
+.progress-tracker {
+  margin: 20px 0;
+}
+
+
+.progress-bar {
+  border: 1px solid black;
+  width: 33%;
+  height: 20px;
+  background-color: #f0f0f0;
+  border-radius: 10px;
+  overflow: hidden;
+  margin-top: 10px;
+}
+
+
+.progress {
+  height: 100%;
+  background-color: #3f20da; /* Green color for the progress */
+  transition: width 0.3s ease;
+}
